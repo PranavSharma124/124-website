@@ -2,7 +2,7 @@ import "./TeamCard.css";
 import mohit from "./images/mohit.png";
 import pranav from "./images/pranav.jpeg";
 import aryan from "./images/aryan.jpg";
-import mayank from "./images/509.png";
+import mayank from "./images/khabya.jpg";
 import arya from "./images/arya.png";
 import kanchi from "./images/kanchi.png";
 

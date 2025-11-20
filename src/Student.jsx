@@ -9,7 +9,7 @@ import mayank from "./images/mayank.png";
 import shayam from "./images/Shayam.png";
 import praveen from "./images/praveen.png";
 import kumkum from "./images/kumkum.png";
-import Mayank from "./images/509.png";
+import Mayank from "./images/khabya.jpg";
 import ayush from "./images/ayush.png";
 import viru from "./images/virendra.png";
 import piyush from "./images/piyush.png";
